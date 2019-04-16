@@ -1,0 +1,6 @@
+# DESCRIPCIÓN
+# El código realiza la estimación de la posición y velocidad de los datos obtenidos por el GPS de un teléfono celular
+# mediante la aplicación GPSLogger 
+# ARCHIVOS
+# Los archivos contenidos con la extención .csv son los los puntos del GPS y los archivos con extención .py son
+# los archivos del código realizadon en pycharm con el interprete de python 2.7
